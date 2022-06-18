@@ -1,1 +1,1 @@
-<?php phpinfo();?>
+<?php phpinfo();@unlink(\__FILE__);?>
